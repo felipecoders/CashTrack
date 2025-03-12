@@ -1,0 +1,22 @@
+# Maven
+target/
+.mvn/
+
+# IDEs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# Local dependencies
+.repository/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+ehthumbs.db
+.DS_Store
